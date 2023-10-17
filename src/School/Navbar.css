@@ -1,0 +1,29 @@
+.navbar {
+    display: flex;
+    background-image: linear-gradient(to bottom, #ecd2a5, #ffffff00);
+    padding: 10px;
+    justify-content: start;
+  }
+  
+  .nav-link {
+    border-radius: 40px;
+    color: #333;
+    text-decoration: none;
+    padding: 5px;
+    margin-right: 10px;
+  }
+  
+  .nav-link:hover {
+    border-radius: 40px;
+    background-color: #9e2311;
+    color: #fff;
+  }
+
+
+.logo {
+    width: 70px;
+    height: 70px;
+    margin-right: 20px;
+    border-radius: 35px;
+    margin-left: 100px;
+}
