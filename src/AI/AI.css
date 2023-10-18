@@ -1,0 +1,27 @@
+.home {
+    padding: 20px;
+   }
+   
+   .banner {
+    background-color: #007bff;
+    color: white;
+    padding: 20px;
+    text-align: center;
+   }
+   
+   .features {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+   }
+   
+   .feature {
+    background-color: #f8f9fa;
+    padding: 20px;
+    width: 300px;
+   }
+   
+   .feature h2 {
+    margin-bottom: 10px;
+   }

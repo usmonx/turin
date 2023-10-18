@@ -1,0 +1,47 @@
+.iframes{
+    display: flex;
+}
+
+.video-box{
+    margin-left: 20px;
+    height: 300px;
+    width: 300px;
+    box-shadow: 10px 10px 30px #efdcbb;
+    margin-bottom: 50px;
+    border-radius: 30px;
+}
+
+.video{
+    border-radius: 30px;
+    height: 300px;
+    width: 100%;
+    margin: 0;
+}
+
+.insta-button{
+    height: 75px;
+    font-size: 32px !important;
+    margin-left: 10px;
+}
+.insta-button:hover{
+    color: rgb(230, 0, 255);
+    height: 75px;
+    font-size: 32px !important;
+    margin-left: 10px;
+}
+.facebook-button{
+    height: 75px;
+    font-size: 32px !important;
+    margin-left: 10px;
+}
+.telegram-button{
+    height: 75px;
+    font-size: 32px !important;
+    margin-left: 10px;
+}
+.youtube-button{
+    height: 75px;
+    font-size: 32px !important;
+    margin-left: 10px;
+    margin-bottom: 50px;
+}

@@ -1,0 +1,28 @@
+.slider{
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.image{
+    width: 100%;
+    height: 600px;
+    box-sizing: border-box;
+    margin-right: -20px;
+    padding:0;
+}
+
+.left{
+    border-radius: 30px;
+    width: 40px;
+    height: 40px;
+}
+
+.right{
+    border-radius: 30px;
+    width: 40px;
+    height: 40px;
+}

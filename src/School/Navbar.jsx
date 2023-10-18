@@ -12,10 +12,10 @@ const Navbar = () => {
   return (
     <nav className="navbar fixed-top">
         <img className='logo' src={Logo} alt="" />
-        <a href="#" className="nav-link">Home</a>
-        <a href="#" className="nav-link">About</a>
-        <a href="#" className="nav-link">Services</a>
-        <a href="#" className="nav-link">Contact</a>
+          <a href="#" className="nav-link">Home</a>
+          <a href="#" className="nav-link">About</a>
+          <a href="#" className="nav-link">Services</a>
+          <a href="#" className="nav-link">Contact</a>
     </nav>
   );
 };

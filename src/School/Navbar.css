@@ -2,15 +2,16 @@
     display: flex;
     background-image: linear-gradient(to bottom, #ecd2a5, #ffffff00);
     padding: 10px;
-    justify-content: start;
+    justify-content: start !important;
   }
   
   .nav-link {
     border-radius: 40px;
-    color: #333;
+    color: #9e2311;
     text-decoration: none;
     padding: 5px;
     margin-right: 10px;
+
   }
   
   .nav-link:hover {
